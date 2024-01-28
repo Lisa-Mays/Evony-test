@@ -1,0 +1,28 @@
+{
+    "search_box": {
+        "search_icon": {"x": 183, "y": 859},
+        "x_input": {"x": 200, "y": 515},
+        "y_input": {"x": 400, "y": 515},
+        "exit_input": {"x": 276, "y": 386},
+        "go_button": {"x": 280, "y": 596},
+        "select": {"x": 267, "y": 477}
+    },
+    "chatting": {
+        "whisper": {"x": 420, "y": 910},
+        "tab": {"x": 500, "y": 92},
+        "first_chat": {"x": 485, "y": 195}
+    },
+    "boss_setter": {
+        "5min_btn": {"x": 166, "y": 500},
+        "march_btn": {"x": 400, "y": 925},
+        "after_solo": {"x": 278, "y": 795},
+        "preset_1": {"x": 50, "y": 103},
+        "preset_2": {"x": 110, "y": 103},
+        "preset_3": {"x": 175, "y": 103},
+        "preset_4": {"x": 235, "y": 103},
+        "preset_5": {"x": 300, "y": 103},
+        "preset_6": {"x": 355, "y": 103},
+        "preset_7": {"x": 425, "y": 103},
+        "preset_8": {"x": 480, "y": 103}
+    }
+}

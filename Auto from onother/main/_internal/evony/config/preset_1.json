@@ -1,0 +1,56 @@
+{
+  "preset_1": {
+    "bosses": [
+      "ymir-2",
+      "ymir-3"
+    ],
+    "mode": "rally",
+    "priority": 1,
+    "active": true
+  },
+  "preset_2": {
+    "bosses": [
+      "ymir-2",
+      "ymir-3"
+    ],
+    "mode": "rally",
+    "priority": 1,
+    "active": true
+  },
+  "preset_3": {
+    "bosses": [
+      "ymir-2",
+      "ymir-3"
+    ],
+    "mode": "rally",
+    "priority": 1,
+    "active": true
+  },
+  "preset_4": {
+    "bosses": [
+      "ymir-2",
+      "ymir-3"
+    ],
+    "mode": "rally",
+    "priority": 1,
+    "active": true
+  },
+  "preset_5": {
+    "bosses": [
+      "ymir-2",
+      "ymir-3"
+    ],
+    "mode": "rally",
+    "priority": 1,
+    "active": true
+  },
+  "preset_6": {
+    "bosses": [
+      "ymir-2",
+      "ymir-3"
+    ],
+    "mode": "rally",
+    "priority": 1,
+    "active": true
+  }
+}

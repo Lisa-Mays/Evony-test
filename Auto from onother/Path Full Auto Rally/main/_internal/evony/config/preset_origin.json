@@ -1,0 +1,50 @@
+{
+    "preset_1": {
+        "bosses": ["hydra-4", "hydra-2","cerberus-2", "hydra-5", "panground-3", "panground-4", "panmounted-3", "panmounted-4", "panmounted-5", "panmounted-5", "panmounted-6", "panranged-3", "panranged-4", "panranged-5", "panranged-6", "cerberus-3", "hydra-3", "warlord-3", "warlord-4", "warlord-5", "ymir-2", "ymir-4", "ymir-5", "ymir-3"],
+        "mode": "solo",
+        "priority": 1,
+        "active": true
+    },
+    "preset_2": {
+        "bosses": ["hydra-4", "hydra-2","hydra-5", "panground-4", "panground-5", "panground-6", "jormungandr-16", "cerberus-4", "panmounted-4", "panmounted-4", "panmounted-5", "panmounted-5", "panranged-4", "panranged-4", "panranged-5", "panranged-5", "cerberus-3", "warlord-4", "warlord-5", "warlord-6", "typhon-17", "ymir-3", "ymir-4", "ymir-5", "ymir-6","panmounted-6", "cerberus-2"],
+        "mode": "solo",
+        "priority": 10,
+        "active": true
+    },
+    "preset_3": {
+        "bosses": [],
+        "mode": "solo",
+        "priority": 3,
+        "active": false
+    },
+    "preset_4": {
+        "bosses": [],
+        "mode": "solo",
+        "priority": 4,
+        "active": false
+    },
+    "preset_5": {
+        "bosses": ["hydra-4", "cerberus-2", "hydra-2", "panmounted-3", "panmounted-4", "panground-4", "panground-5", "panground-3", "panmounted-5", "panranged-3", "panranged-4", "panranged-5", "cerberus-3", "cerberus-5", "hydra-4", "hydra-5", "warlord-3", "warlord-4", "warlord-5", "ymir-2", "ymir-3", "ymir-4", "ymir-5"],
+        "mode": "solo",
+        "priority": 2,
+        "active": true
+    },
+    "preset_6": {
+        "bosses": ["hydra-4", "cerberus-2", "panground-4", "panground-5", "panground-3", "hydra-2", "panmounted-3", "panmounted-4", "panmounted-5", "panranged-3", "panranged-4", "panranged-5", "panranged-6", "cerberus-3", "cerberus-5", "hydra-4", "hydra-5", "ymir-2","ymir-3", "ymir-4", "ymir-5", "warlord-3", "warlord-4", "warlord-5"],
+        "mode": "solo",
+        "priority": 3,
+        "active": true
+    },
+    "preset_7": {
+        "bosses": ["hydra-5", "hydra-2", "cerberus-4", "panmounted-4", "panmounted-5", "panmounted-6", "panranged-3", "panranged-4", "panranged-5", "panranged-6",  "panground-4", "panground-5", "panground-6", "cerberus-3", "cerberus-4", "cerberus-5", "hydra-4", "hydra-5", "warlord-3", "warlord-4", "warlord-5", "warlord-6", "ymir-3", "ymir-4", "ymir-5", "ymir-6", "cerberus-6"],
+        "mode": "solo",
+        "priority": 9,
+        "active": true
+    },
+    "preset_8": {
+        "bosses": ["jormungandr-16", "hydra-2", "cerberus-4", "cerberus-2", "hydra-4", "panmounted-4", "panmounted-5", "panmounted-6", "panground-4", "panground-5", "panground-6", "panranged-3", "panranged-4", "panranged-5", "panranged-6", "cerberus-3", "hydra-3", "hydra-4", "hydra-5", "warlord-3", "warlord-4", "warlord-5", "warlord-6", "ymir-3", "ymir-4", "ymir-5", "ymir-2", "typhon-17"],
+        "mode": "solo",
+        "priority": 8,
+        "active": true
+    }
+}
